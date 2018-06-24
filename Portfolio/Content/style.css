@@ -1,0 +1,20 @@
+﻿body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+}
+
+.naglowek {
+    border-style: dotted;
+}
+
+.content {
+    border-style: dashed;
+}
+
+footer {
+    border-style: groove;
+}
+
+content .umiejetnosci img {
+    float: left;
+}
