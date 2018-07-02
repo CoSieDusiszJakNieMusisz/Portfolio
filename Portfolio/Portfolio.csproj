@@ -89,10 +89,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\img\banner_test.png" />
     <Content Include="Content\img\mario_300X221.png" />
+    <Content Include="Content\img\mario_50x50.png" />
     <Content Include="Content\img\mario_contact_300x241.png" />
     <Content Include="Content\img\mario_projects_300x220.png" />
     <Content Include="Content\img\mario_skills_300x274.png" />
+    <Content Include="Content\img\tlo_1.jpg" />
+    <Content Include="Content\img\tlo_2.jpg" />
     <Content Include="Content\style.css" />
     <Content Include="Global.asax" />
     <Content Include="Prototype\index.html" />
